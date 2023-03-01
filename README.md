@@ -1,1 +1,1 @@
-# MoZuyd.github.io
+# MoZuyd.github.io/awesome

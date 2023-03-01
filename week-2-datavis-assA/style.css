@@ -1,0 +1,11 @@
+div {
+    border: 10px solid black;
+}
+
+div.speciaal {
+    background: green;
+}
+
+div.speciaal:hover {
+    background: red;
+}

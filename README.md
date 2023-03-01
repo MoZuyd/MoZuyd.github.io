@@ -1,1 +1,1 @@
-# MoZuyd.github.io/awesome
+# https://mozuyd.github.io/my-hidden-awesome-project/
